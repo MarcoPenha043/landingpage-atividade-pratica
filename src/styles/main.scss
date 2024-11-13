@@ -1,13 +1,14 @@
 @use 'hero' as *;
 @use 'components/buttons' as *;
 @use 'event' as *;
+@use 'variables' as *;
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
-    color: #fff;
+    color: $textColor;
     list-style: none;
 }
 
