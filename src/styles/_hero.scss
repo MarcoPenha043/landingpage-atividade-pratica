@@ -3,14 +3,14 @@
 .hero{
     padding-top: 64px;
     padding-bottom: 100px;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/fundo.png);;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/herobaile.png);;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 
     &__logo{
         margin: 0 auto;
-        height: 80px;
+        height: 320px;
         display: block;
     }
 
